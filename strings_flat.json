@@ -1,0 +1,2587 @@
+[
+  {
+    "file": "config/Config.qml",
+    "en": "Background",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Bar BG",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Common",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Error",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Error Focus",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Focus",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Internal BG",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Over Error",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Over Primary",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Over Secondary",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Over Tertiary",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Pane",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Popup",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Primary",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Primary Focus",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Secondary",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Secondary Focus",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Tertiary",
+    "zh": ""
+  },
+  {
+    "file": "config/Config.qml",
+    "en": "Tertiary Focus",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/tools/ToolsMenu.qml",
+    "en": "Color Picker",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/tools/ToolsMenu.qml",
+    "en": "Google Lens",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/tools/ToolsMenu.qml",
+    "en": "Mirror",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/tools/ToolsMenu.qml",
+    "en": "Open Recordings",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/tools/ToolsMenu.qml",
+    "en": "Open Screenshots",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/tools/ToolsMenu.qml",
+    "en": "QR Code",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/tools/ToolsMenu.qml",
+    "en": "Screenshot",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/config/SettingsWindow.qml",
+    "en": "Ambxst Settings",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/config/AiPanel.qml",
+    "en": "AI & API Keys",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/config/AiPanel.qml",
+    "en": "Custom Endpoint",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/config/AiPanel.qml",
+    "en": "Custom Provider",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/config/AiPanel.qml",
+    "en": "Custom Provider API Key",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/config/AiPanel.qml",
+    "en": "Custom cURL Template",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/config/AiPanel.qml",
+    "en": "Enter API Key...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/config/AiPanel.qml",
+    "en": "Placeholders: {{ENDPOINT}}, {{API_KEY}}, {{BODY_PATH}}",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/config/AiPanel.qml",
+    "en": "curl -X POST {{ENDPOINT}} -H 'Authorization: Bearer {{API_KEY}}' -d @{{BODY_PATH}}",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/widgets/NotificationHistory.qml",
+    "en": "Notifications",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/tmux/TmuxTab.qml",
+    "en": "Loading panes...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/tmux/TmuxTab.qml",
+    "en": "No panes to display",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/tmux/TmuxTab.qml",
+    "en": "No session selected",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/tmux/TmuxTab.qml",
+    "en": "Quit",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/tmux/TmuxTab.qml",
+    "en": "Rename",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/tmux/TmuxTab.qml",
+    "en": "Search or create tmux session...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/tmux/TmuxTab.qml",
+    "en": "Select a session to preview",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "Alias",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "Checksum",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "Clear all?",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "Copy something to get started",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "Date",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "Link",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "Loading preview...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "MIME Type",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "No clipboard history",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "Search in clipboard...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/clipboard/ClipboardTab.qml",
+    "en": "Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ColorPickerPopup.qml",
+    "en": "Color picker",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ColorPickerPopup.qml",
+    "en": "Custom",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/WifiNetworkItem.qml",
+    "en": "Enter password...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Animation",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Apply changes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Back",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Blur",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Colors",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Discard changes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Editor - ",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Enable Corners",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Fonts",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "General",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Mono Font",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Offset X",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Offset Y",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Opacity",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Roundness",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Shadow",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Tint Icons",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "UI Font",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Variant",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ThemePanel.qml",
+    "en": "Wallpapers",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ColorSelector.qml",
+    "en": "Open color picker",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ColorSelector.qml",
+    "en": "Select Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/VariantEditor.qml",
+    "en": "Angle",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/VariantEditor.qml",
+    "en": "Background",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/VariantEditor.qml",
+    "en": "Border",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/VariantEditor.qml",
+    "en": "Dot Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/VariantEditor.qml",
+    "en": "Item Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/VariantEditor.qml",
+    "en": "Opacity",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/VariantEditor.qml",
+    "en": "Range",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/VariantEditor.qml",
+    "en": "Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/AudioMixerPanel.qml",
+    "en": "Input",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/AudioMixerPanel.qml",
+    "en": "No applications using audio",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/AudioMixerPanel.qml",
+    "en": "Open PipeWire Volume Control",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/AudioMixerPanel.qml",
+    "en": "Output",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/AudioMixerPanel.qml",
+    "en": "Sound",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/AudioMixerPanel.qml",
+    "en": "Volume Mixer",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ColorPickerView.qml",
+    "en": "Color picker",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ColorPickerView.qml",
+    "en": "Custom",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BluetoothDeviceItem.qml",
+    "en": "Forget",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/GradientStopsEditor.qml",
+    "en": "Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/GradientStopsEditor.qml",
+    "en": "Delete stop",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/GradientStopsEditor.qml",
+    "en": "Gradient Stops (",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/GradientStopsEditor.qml",
+    "en": "Position",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/GradientStopsEditor.qml",
+    "en": "Stop ",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "After Sleep",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Always Show Numbers",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Ambxst",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Animation Duration",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Assistant Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Audio Effects",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Audio Mixer",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Available on Fullscreen",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Background Variant",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Bar",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Bar Auto-hide",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Bar BG Variant",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Bar Position",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Bar Screens",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Before Sleep",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Bluetooth",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Brightness",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Contrast",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Enabled",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Ignore Opacity",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Ignorealpha",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Ignorealpha Value",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur New Optimizations",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Noise",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Passes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Transition",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Vibrancy",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Blur Xray",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Border Colors",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Border Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Clipboard Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Clipboard Prefix",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Color Border",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Color Opacity",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Color Scheme",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Color Variant",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Compositor",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dashboard Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Desktop",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Desktop Enabled",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Desktop Icon Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Desktop Text Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Desktop Vertical Spacing",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock Enabled",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock Height",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock Hover Region Height",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock Icon Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock Margin",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock Mode",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock Pinned on Startup",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock Position",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dock Spacing",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Dynamic Workspaces",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Emoji Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Emoji Prefix",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Enable Corners",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Firefox Player",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Gradient Angle",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Gradient Mode",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Gradient Stops",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Hover Region Height",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Hover to Reveal",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Idle Listener",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Idle Settings",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Internal BG Variant",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Item Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Key Bindings",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Launcher Icon",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Launcher Icon Full Tint",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Launcher Icon Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Launcher Icon Tint",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Launcher Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Lens Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Lock Command",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Lockscreen",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Lockscreen Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Network",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Notch",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Notes Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Notes Prefix",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Overview",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Overview Columns",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Overview Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Overview Rows",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Overview Scale",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Overview Workspace Spacing",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Pane Variant",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Pill Style",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Pinned on Startup",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Popup Variant",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Powermenu Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Prefixes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Quit Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Reload Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Roundness",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Screenrecord Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Screenshot Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Settings Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Shadow Blur",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Shadow Offset",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Shadow Opacity",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Shadow Power",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Shadow Range",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Shadow Scale",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Shadows Enabled",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Shell System",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Show App Icons",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Show Numbers",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Show Overview Button",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Show Pin Button",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Show Running Indicators",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Sync Shadow Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Sync Shadow Opacity",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "System",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "System Resources",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Temperature Unit",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Theme",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Tint Icons",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Tmux Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Tmux Prefix",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Tools Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "UI Font",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Wallpapers",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Wallpapers Keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Wallpapers Prefix",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Wavy Line",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Weather Location",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Window Gaps",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Window Preview",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Workspaces",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsIndex.qml",
+    "en": "Workspaces Shown",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Action",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Add keybind",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Ambxst",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Custom",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Key Combination",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Keybinds",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Layouts (AxctlService)",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Leave all unselected to work in all layouts",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Legacy Dispatcher",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Name (optional)",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Reload binds",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BindsPanel.qml",
+    "en": "Reset to default",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/WifiPanel.qml",
+    "en": "Network settings",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/WifiPanel.qml",
+    "en": "Open captive portal",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/WifiPanel.qml",
+    "en": "Rescan networks",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/WifiPanel.qml",
+    "en": "Wi-Fi",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BluetoothPanel.qml",
+    "en": "Bluetooth",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BluetoothPanel.qml",
+    "en": "Open Blueman",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/BluetoothPanel.qml",
+    "en": "Scan for devices",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Active Border",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Apply changes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "AxctlService",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Back",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Blur",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Border Angle",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Border Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Brightness",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Colors",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Coming Soon",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Contrast",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Discard changes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Explicit Ignorealpha",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Gaps In",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Gaps Out",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "General",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Ignore Opacity",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Ignore Window",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Ignorealpha Value",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Inactive Angle",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Inactive Border",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "New Optimizations",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Noise",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Offset X",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Offset Y",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Opacity",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Passes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Range",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Render Power",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Right click to remove",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Rounding",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Scale",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Shadows",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Sharp",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Support for more compositors\\nis planned for future updates.",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Sync Border Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Sync Border Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Sync Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Sync Opacity",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Sync Rounding",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Vibrancy",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/CompositorPanel.qml",
+    "en": "Xray",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/EasyEffectsPanel.qml",
+    "en": "EasyEffects",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/EasyEffectsPanel.qml",
+    "en": "EasyEffects not installed",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/EasyEffectsPanel.qml",
+    "en": "Input Presets",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/EasyEffectsPanel.qml",
+    "en": "No presets configured",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/EasyEffectsPanel.qml",
+    "en": "Open EasyEffects",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/EasyEffectsPanel.qml",
+    "en": "Output Presets",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/EasyEffectsPanel.qml",
+    "en": "Refresh",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "Ambxst",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "Binds",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "Bluetooth",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "Compositor",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "Effects",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "Mixer",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "Network",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "Search...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "System",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SettingsTab.qml",
+    "en": "Theme",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Add Disk",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Add Listener",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "After Sleep",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Animated blur when opening panels",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Animated wavy line effect",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Back",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Before Sleep",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Blur Transition",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Celsius",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Clipboard",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Configure which disks to monitor",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Disable Cover Art Rotation",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Emoji",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Fahrenheit",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Idle",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Keyboard shortcuts for quick actions in launcher",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Listener ",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Listeners",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Location",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Lock Cmd",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Notes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "On Resume",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "On Timeout",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Performance",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Prefixes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Show window thumbnails in overview",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Stop the vinyl disc from spinning",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "System Resources",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Timeout (s)",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Tmux",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Toggle visual effects to improve performance",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Unit",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Wallpapers",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Wavy Line",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Weather",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/SystemPanel.qml",
+    "en": "Window Preview",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "About Ambxst ",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Always Show Numbers",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Apply changes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Auto-hide",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Available on Fullscreen",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Back",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Bar",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Chinese (Simplified)",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Chinese (Traditional)",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Columns",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Compositor",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Contain Bar",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Custom",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Custom Text",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Desktop",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Disable Hover Expansion",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Discard changes",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Dock",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Donate ❤️",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Dynamic",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Empty = all screens",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Enable Firefox Player",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "English",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Floating",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Frame",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Height",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Hover Region",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Hover Region Height",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Hover to Reveal",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Icon Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Integrated",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Island",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Japanese",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Keep Bar Border",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Keep Bar Shadow",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Keep Hidden",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Korean",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Latin",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Launcher Icon",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Launcher Icon Full Tint",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Launcher Icon Size",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Launcher Icon Tint",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Lockscreen",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Margin",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "No Media Display",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Notch",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "OCR Languages",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Overview",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Pill Style",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Pinned on Startup",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Position",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Rows",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Scale",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Screens",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Show App Icons",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Show Numbers",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Show Overview Button",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Show Pin Button",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Show Running Indicators",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Shown",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Sidebar",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Spacing",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Spanish",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Squished",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "System",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Text Color",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Theme",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Thickness",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Update Service",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Use 12h Format",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "User@Host",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Vertical Spacing",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Width",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Workspace Spacing",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/controls/ShellPanel.qml",
+    "en": "Workspaces",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/emoji/EmojiTab.qml",
+    "en": "Clear recent?",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/emoji/EmojiTab.qml",
+    "en": "Dark",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/emoji/EmojiTab.qml",
+    "en": "Light",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/emoji/EmojiTab.qml",
+    "en": "Medium-Dark",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/emoji/EmojiTab.qml",
+    "en": "Medium-Light",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/emoji/EmojiTab.qml",
+    "en": "Search emojis...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/notes/NotesTab.qml",
+    "en": "Markdown",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/notes/NotesTab.qml",
+    "en": "Rename",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/notes/NotesTab.qml",
+    "en": "Rich Text",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/notes/NotesTab.qml",
+    "en": "Search notes...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/notes/NotesTab.qml",
+    "en": "Select or create a note",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/notes/NotesTab.qml",
+    "en": "Start typing...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/notes/NotesTab.qml",
+    "en": "Write markdown here...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/metrics/MetricsTab.qml",
+    "en": "System",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/wallpapers/WallpapersTab.qml",
+    "en": "Search wallpapers...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/wallpapers/WallpapersTab.qml",
+    "en": "Tint",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/wallpapers/FilterBar.qml",
+    "en": "Images",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/dashboard/wallpapers/FilterBar.qml",
+    "en": "Videos",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/launcher/LauncherView.qml",
+    "en": "Create Shortcut",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/launcher/LauncherView.qml",
+    "en": "Launch",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/launcher/LauncherView.qml",
+    "en": "Search applications...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/powermenu/PowerMenu.qml",
+    "en": "Exit AxctlService",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/powermenu/PowerMenu.qml",
+    "en": "Hibernate",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/powermenu/PowerMenu.qml",
+    "en": "Lock Session",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/powermenu/PowerMenu.qml",
+    "en": "Power Off",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/powermenu/PowerMenu.qml",
+    "en": "Reboot",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/powermenu/PowerMenu.qml",
+    "en": "Suspend",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/presets/PresetsTab.qml",
+    "en": "Rename",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/presets/PresetsTab.qml",
+    "en": "Search or create preset...",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/presets/PresetsTab.qml",
+    "en": "Select config files to update:",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/presets/PresetsTab.qml",
+    "en": "Update",
+    "zh": ""
+  },
+  {
+    "file": "modules/widgets/presets/PresetsTab.qml",
+    "en": "Visit Author",
+    "zh": ""
+  },
+  {
+    "file": "modules/tools/ScreenrecordTool.qml",
+    "en": "Portal",
+    "zh": ""
+  },
+  {
+    "file": "modules/tools/ScreenrecordTool.qml",
+    "en": "Toggle Audio Output",
+    "zh": ""
+  },
+  {
+    "file": "modules/tools/ScreenrecordTool.qml",
+    "en": "Toggle Microphone",
+    "zh": ""
+  },
+  {
+    "file": "modules/tools/ScreenshotTool.qml",
+    "en": "Region",
+    "zh": ""
+  },
+  {
+    "file": "modules/tools/ScreenshotTool.qml",
+    "en": "Screen",
+    "zh": ""
+  },
+  {
+    "file": "modules/tools/ScreenshotTool.qml",
+    "en": "Window",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Agentic capabilities, advanced reasoning, 200k context",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Execute a shell command on the user's system (Linux). Use this to list files, control the system, or run utilities. Output will be returned.",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Groq Model",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Latest model with recursive self-improvement, SOTA coding capabilities",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Local Ollama Model",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "M2-her",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "MiniMax-M2",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "MiniMax-M2.1-highspeed",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "MiniMax-M2.5-highspeed",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "MiniMax-M2.7-highspeed",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Mistral Model",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "OpenAI Model",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Peak performance, ultimate value, master the complex",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Powerful multi-language programming, enhanced reasoning",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Role-playing, multi-turn conversations, emotional expression",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Same performance as M2.1, faster inference (~100 tps)",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Same performance as M2.5, faster inference (~100 tps)",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Same performance as M2.7, faster inference (~100 tps)",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "The shell command to run (e.g. 'ls -la', 'ip addr')",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/Ai.qml",
+    "en": "Unknown",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/BluetoothDevice.qml",
+    "en": "Unknown",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/ai/strategies/AnthropicApiStrategy.qml",
+    "en": "Unknown error",
+    "zh": ""
+  },
+  {
+    "file": "modules/services/ai/strategies/MiniMaxApiStrategy.qml",
+    "en": "Unknown error",
+    "zh": ""
+  },
+  {
+    "file": "modules/desktop/Desktop.qml",
+    "en": "Loading desktop...",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Pomodoro.qml",
+    "en": "+1m",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Pomodoro.qml",
+    "en": "-1m",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Pomodoro.qml",
+    "en": "Sync Spotify",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Drizzle",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Fog",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Hail",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Heavy rain",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Heavy snow",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Mainly clear",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Overcast",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Partly cloudy",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Rain",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Snow",
+    "zh": ""
+  },
+  {
+    "file": "modules/bar/clock/Clock.qml",
+    "en": "Thunder",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Approve",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Chat History",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Command Approved",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Command Rejected",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Hello, <font color='",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Reject",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Run Command",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Set API key",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Set system prompt",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Show help",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Start new chat",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/AssistantSidebar.qml",
+    "en": "Switch AI model",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/CodeBlock.qml",
+    "en": "Copied!",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/ModelSelectorPopup.qml",
+    "en": "Refresh?",
+    "zh": ""
+  },
+  {
+    "file": "modules/sidebar/ModelSelectorPopup.qml",
+    "en": "Search models...",
+    "zh": ""
+  },
+  {
+    "file": "modules/components/ContextMenu.qml",
+    "en": ", entry ? entry.text : ",
+    "zh": ""
+  }
+]
