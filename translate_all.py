@@ -332,7 +332,7 @@ translations = {
     "Contrast": "对比度",
     "Brightness": "亮度",
     "Vibrancy": "鲜艳度",
-    "Support for more compositors\nis planned for future updates.": "未来更新将支持更多合成器。",
+    "Support for more compositors\\nis planned for future updates.": "未来更新将支持更多合成器。",
 
     # === EasyEffects 面板 ===
     "EasyEffects": "EasyEffects",
@@ -595,7 +595,7 @@ translations = {
     "Refresh?": "刷新？",
 
     # === 上下文菜单 ===
-    ", entry ? entry.text :": ", 条目 ? 条目.text :",
+    ", entry ? entry.text : ": ", 条目 ? 条目.text : ",
 
     # === 杂项 ===
     "Hello, <font color='": "你好，<font color='",

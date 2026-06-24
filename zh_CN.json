@@ -1583,7 +1583,7 @@
     {
       "property": "text",
       "english": "Support for more compositors\\nis planned for future updates.",
-      "chinese": ""
+      "chinese": "未来更新将支持更多合成器。"
     }
   ],
   "modules/widgets/dashboard/controls/EasyEffectsPanel.qml": [
@@ -2838,7 +2838,7 @@
     {
       "property": "text",
       "english": ", entry ? entry.text : ",
-      "chinese": ""
+      "chinese": ", 条目 ? 条目.text : "
     }
   ]
 }
