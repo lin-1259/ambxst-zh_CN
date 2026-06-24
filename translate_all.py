@@ -599,6 +599,103 @@ translations = {
 
     # === 杂项 ===
     "Hello, <font color='": "你好，<font color='",
+
+    # === 新增遗漏字符串 (66 条) ===
+    # 电池/电量
+    "Charged": "已充满",
+    "Charging": "充电中",
+    "Full": "已满",
+    "On battery": "使用电池中",
+    "Fully charged": "已充满",
+    "Critical battery": "电池电量极低",
+    "Low battery": "电池电量低",
+    "Power saver": "省电模式",
+    "Ignore": "忽略",
+
+    # 电源配置
+    "Power Save": "省电",
+    "Balanced": "平衡",
+    "Performance": "性能",
+    "Active profile": "当前配置",
+
+    # 面板/Dock
+    "Unpin bar": "取消固定面板",
+    "Pin bar": "固定面板",
+    "Unpin dock": "取消固定 Dock",
+    "Pin dock": "固定 Dock",
+
+    # 锁屏
+    "Authentication failed": "认证失败",
+
+    # 天气
+    "Clear sky": "晴朗",
+    "Foggy": "有雾",
+    "Rime fog": "雾凇",
+    "Evening": "傍晚",
+    "Night": "夜间",
+
+    # 壁纸配色方案 (Material You)
+    "Content": "内容",
+    "Expressive": "表现力",
+    "Fidelity": "保真",
+    "Fruit Salad": "水果沙拉",
+    "Monochrome": "单色",
+    "Neutral": "中性",
+    "Rainbow": "彩虹",
+    "Tonal Spot": "色调聚点",
+    "Select Scheme": "选择方案",
+
+    # 截图
+    "All Screens": "所有屏幕",
+    "Current Screen": "当前屏幕",
+    "Failed to parse monitors": "解析显示器失败",
+    "Failed to fetch monitors": "获取显示器失败",
+    "Failed to save image": "保存图片失败",
+
+    # 录屏
+    "Screen Recorder": "屏幕录制",
+    "Screen Recorder Error": "屏幕录制错误",
+    "Recording saved to ": "录制已保存到 ",
+
+    # 音频
+    "Unmute": "取消静音",
+    "Mute": "静音",
+    "Volume protection active": "音量保护已激活",
+    "Volume jump limited": "音量跳跃受限",
+
+    # 剪贴板
+    "No selection": "未选择",
+    "Failed to parse response": "响应解析失败",
+    "Failed to fetch preview": "预览获取失败",
+
+    # 播放器
+    "Nothing Playing": "无播放内容",
+    "Enjoy the silence": "享受寂静",
+    "Unknown Player": "未知播放器",
+
+    # 更新
+    "Ambxst Update": "Ambxst 更新",
+    "Maybe later": "稍后再说",
+
+    # 预设管理
+    "Cannot load empty preset name": "无法加载空的预设名称",
+    "Cannot save preset with empty name": "无法保存空的预设名称",
+    "No config files selected for preset": "未为预设选择配置文件",
+    "Cannot rename official preset": "无法重命名官方预设",
+    "Cannot rename to official name": "无法重命名为官方名称",
+    "Invalid rename parameters": "无效的重命名参数",
+
+    # 按钮标签
+    "Open Launcher": "打开启动器",
+    "Open Window Overview": "打开窗口概览",
+    "Power Menu": "电源菜单",
+    "Open Presets Manager": "打开预设管理器",
+    "Search windows...": "搜索窗口...",
+
+    # 其他
+    "Bypassed": "已绕过",
+    "Pomodoro": "番茄钟",
+    "Edit with Gradia": "用 Gradia 编辑",
 }
 
 # 加载原始数据
