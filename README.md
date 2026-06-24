@@ -1,51 +1,49 @@
 # Ambxst Shell 中文汉化包 🇨🇳
 
-[Ambxst](https://github.com/Axenide/Ambxst) 是一款基于 Quickshell 的高度可定制的 Wayland Shell。本项目提供其中文汉化。
+将 Ambxst Shell 界面完整翻译为简体中文。
 
-## 安装
+## 快速使用
 
 ```bash
-# 1. 克隆本项目
+# 1️⃣ 下载汉化包
 git clone https://github.com/lin-1259/ambxst-zh_CN.git
 cd ambxst-zh_CN
 
-# 2. 运行汉化安装脚本
+# 2️⃣ 一键安装汉化
 python3 install_zh_CN.py
+
+# 3️⃣ 重启 Ambxst
+# 按 Super+Shift+R 重载，或重新登录
 ```
 
-## 效果
+就是这么简单，不需要任何配置，脚本会自动找到 Ambxst 的安装位置并打补丁。
 
-- 面板（Bar）界面文字 → 中文
-- 控制中心（Dashboard）→ 中文
-- 启动器（Launcher）→ 中文
-- 通知系统（Notifications）→ 中文
-- 锁屏（Lockscreen）→ 中文
-- 侧边栏（Sidebar）→ 中文
-- 服务状态提示 → 中文
-- 其他 UI 文字 → 中文
+如果需要恢复英文，运行：
 
-## 文件结构
+```bash
+python3 install_zh_CN.py --undo
+```
+
+## 翻译进度
+
+| 项目 | 数值 |
+|------|:----:|
+| 翻译字符串 | **617 条** |
+| 覆盖 QML 文件 | **69 个** |
+| 翻译完成度 | **100% ✅** |
+
+## 文件说明
 
 ```
 ambxst-zh_CN/
-├── zh_CN.json          # 翻译映射文件（英文 → 中文）
-├── install_zh_CN.py    # 安装脚本（自动 patch QML 文件）
-├── README.md           # 本文件
-└── strings_flat.json   # 扁平格式翻译表（方便协作翻译）
+├── zh_CN.json          # ✅ 翻译数据（直接用这个安装）
+├── install_zh_CN.py     # ✅ 一键安装脚本
+├── strings.json         # 原始字符串提取（仅供开发参考）
+└── translate_all.py     # 翻译字典脚本（仅供开发参考）
 ```
 
-## 贡献翻译
+## 兼容性
 
-编辑 `zh_CN.json`，将空字符串 `""` 替换为对应中文即可。
-
-## 卸载
-
-重新安装 Ambxst 即可恢复英文：
-
-```bash
-curl -L get.axeni.de/ambxst | sh
-```
-
-## 许可
-
-AGPL-3.0
+- 适用于 Ambx Shell 最新版本
+- 支持 Hyprland 环境
+- 安装前会自动备份原文件
