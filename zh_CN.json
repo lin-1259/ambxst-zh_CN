@@ -2689,6 +2689,11 @@
       "property": "text",
       "english": "Sync Spotify",
       "chinese": "同步 Spotify"
+    },
+    {
+      "property": "text",
+      "english": "Pomodoro",
+      "chinese": "番茄钟"
     }
   ],
   "modules/bar/clock/Clock.qml": [
@@ -2839,6 +2844,382 @@
       "property": "text",
       "english": ", entry ? entry.text : ",
       "chinese": ", 条目 ? 条目.text : "
+    }
+  ],
+  "modules/widgets/overview/OverviewPopup.qml": [
+    {
+      "property": "qsTr",
+      "english": "Search windows...",
+      "chinese": "搜索窗口..."
+    },
+    {
+      "property": "placeholderText",
+      "english": "Search windows...",
+      "chinese": "搜索窗口..."
+    }
+  ],
+  "modules/bar/BatteryIndicator.qml": [
+    {
+      "property": "text",
+      "english": "Charged",
+      "chinese": "已充满"
+    },
+    {
+      "property": "text",
+      "english": "Charging",
+      "chinese": "充电中"
+    },
+    {
+      "property": "text",
+      "english": "Full",
+      "chinese": "已满"
+    },
+    {
+      "property": "text",
+      "english": "On battery",
+      "chinese": "使用电池中"
+    },
+    {
+      "property": "text",
+      "english": "Fully charged",
+      "chinese": "已充满"
+    }
+  ],
+  "modules/services/Battery.qml": [
+    {
+      "property": "text",
+      "english": "Critical battery",
+      "chinese": "电池电量极低"
+    },
+    {
+      "property": "text",
+      "english": "Low battery",
+      "chinese": "电池电量低"
+    },
+    {
+      "property": "text",
+      "english": "Power saver",
+      "chinese": "省电模式"
+    },
+    {
+      "property": "text",
+      "english": "Ignore",
+      "chinese": "忽略"
+    }
+  ],
+  "modules/services/PowerProfile.qml": [
+    {
+      "property": "text",
+      "english": "Power Save",
+      "chinese": "省电"
+    },
+    {
+      "property": "text",
+      "english": "Balanced",
+      "chinese": "平衡"
+    },
+    {
+      "property": "text",
+      "english": "Performance",
+      "chinese": "性能"
+    },
+    {
+      "property": "text",
+      "english": "Active profile",
+      "chinese": "当前配置"
+    }
+  ],
+  "modules/bar/BarContent.qml": [
+    {
+      "property": "text",
+      "english": "Unpin bar",
+      "chinese": "取消固定面板"
+    },
+    {
+      "property": "text",
+      "english": "Pin bar",
+      "chinese": "固定面板"
+    }
+  ],
+  "modules/dock/DockContent.qml": [
+    {
+      "property": "text",
+      "english": "Unpin dock",
+      "chinese": "取消固定 Dock"
+    },
+    {
+      "property": "text",
+      "english": "Pin dock",
+      "chinese": "固定 Dock"
+    }
+  ],
+  "modules/lockscreen/LockScreen.qml": [
+    {
+      "property": "text",
+      "english": "Authentication failed",
+      "chinese": "认证失败"
+    }
+  ],
+  "modules/services/WeatherService.qml": [
+    {
+      "property": "text",
+      "english": "Clear sky",
+      "chinese": "晴朗"
+    },
+    {
+      "property": "text",
+      "english": "Foggy",
+      "chinese": "有雾"
+    },
+    {
+      "property": "text",
+      "english": "Rime fog",
+      "chinese": "雾凇"
+    },
+    {
+      "property": "text",
+      "english": "Evening",
+      "chinese": "傍晚"
+    },
+    {
+      "property": "text",
+      "english": "Night",
+      "chinese": "夜间"
+    }
+  ],
+  "modules/widgets/dashboard/wallpapers/SchemeSelector.qml": [
+    {
+      "property": "text",
+      "english": "Content",
+      "chinese": "内容"
+    },
+    {
+      "property": "text",
+      "english": "Expressive",
+      "chinese": "表现力"
+    },
+    {
+      "property": "text",
+      "english": "Fidelity",
+      "chinese": "保真"
+    },
+    {
+      "property": "text",
+      "english": "Fruit Salad",
+      "chinese": "水果沙拉"
+    },
+    {
+      "property": "text",
+      "english": "Monochrome",
+      "chinese": "单色"
+    },
+    {
+      "property": "text",
+      "english": "Neutral",
+      "chinese": "中性"
+    },
+    {
+      "property": "text",
+      "english": "Rainbow",
+      "chinese": "彩虹"
+    },
+    {
+      "property": "text",
+      "english": "Tonal Spot",
+      "chinese": "色调聚点"
+    },
+    {
+      "property": "text",
+      "english": "Select Scheme",
+      "chinese": "选择方案"
+    }
+  ],
+  "modules/services/Screenshot.qml": [
+    {
+      "property": "text",
+      "english": "All Screens",
+      "chinese": "所有屏幕"
+    },
+    {
+      "property": "text",
+      "english": "Current Screen",
+      "chinese": "当前屏幕"
+    },
+    {
+      "property": "text",
+      "english": "Failed to parse monitors",
+      "chinese": "解析显示器失败"
+    },
+    {
+      "property": "text",
+      "english": "Failed to fetch monitors",
+      "chinese": "获取显示器失败"
+    },
+    {
+      "property": "text",
+      "english": "Failed to save image",
+      "chinese": "保存图片失败"
+    }
+  ],
+  "modules/services/ScreenRecorder.qml": [
+    {
+      "property": "text",
+      "english": "Screen Recorder",
+      "chinese": "屏幕录制"
+    },
+    {
+      "property": "text",
+      "english": "Screen Recorder Error",
+      "chinese": "屏幕录制错误"
+    },
+    {
+      "property": "text",
+      "english": "Recording saved to ",
+      "chinese": "录制已保存到 "
+    }
+  ],
+  "modules/widgets/dashboard/controls/AudioVolumeEntry.qml": [
+    {
+      "property": "text",
+      "english": "Unmute",
+      "chinese": "取消静音"
+    },
+    {
+      "property": "text",
+      "english": "Mute",
+      "chinese": "静音"
+    },
+    {
+      "property": "text",
+      "english": "Volume protection active",
+      "chinese": "音量保护已激活"
+    }
+  ],
+  "modules/services/Audio.qml": [
+    {
+      "property": "text",
+      "english": "Volume jump limited",
+      "chinese": "音量跳跃受限"
+    }
+  ],
+  "modules/services/ClipboardService.qml": [
+    {
+      "property": "text",
+      "english": "No selection",
+      "chinese": "未选择"
+    },
+    {
+      "property": "text",
+      "english": "Failed to parse response",
+      "chinese": "响应解析失败"
+    },
+    {
+      "property": "text",
+      "english": "Failed to fetch preview",
+      "chinese": "预览获取失败"
+    }
+  ],
+  "modules/widgets/dashboard/widgets/FullPlayer.qml": [
+    {
+      "property": "text",
+      "english": "Nothing Playing",
+      "chinese": "无播放内容"
+    },
+    {
+      "property": "text",
+      "english": "Enjoy the silence",
+      "chinese": "享受寂静"
+    },
+    {
+      "property": "text",
+      "english": "Unknown Player",
+      "chinese": "未知播放器"
+    }
+  ],
+  "modules/services/UpdateService.qml": [
+    {
+      "property": "text",
+      "english": "Ambxst Update",
+      "chinese": "Ambxst 更新"
+    },
+    {
+      "property": "text",
+      "english": "Maybe later",
+      "chinese": "稍后再说"
+    }
+  ],
+  "modules/services/PresetsService.qml": [
+    {
+      "property": "text",
+      "english": "Cannot load empty preset name",
+      "chinese": "无法加载空的预设名称"
+    },
+    {
+      "property": "text",
+      "english": "Cannot save preset with empty name",
+      "chinese": "无法保存空的预设名称"
+    },
+    {
+      "property": "text",
+      "english": "No config files selected for preset",
+      "chinese": "未为预设选择配置文件"
+    },
+    {
+      "property": "text",
+      "english": "Cannot rename official preset",
+      "chinese": "无法重命名官方预设"
+    },
+    {
+      "property": "text",
+      "english": "Cannot rename to official name",
+      "chinese": "无法重命名为官方名称"
+    },
+    {
+      "property": "text",
+      "english": "Invalid rename parameters",
+      "chinese": "无效的重命名参数"
+    }
+  ],
+  "modules/widgets/dashboard/LauncherButton.qml": [
+    {
+      "property": "text",
+      "english": "Open Launcher",
+      "chinese": "打开启动器"
+    }
+  ],
+  "modules/widgets/overview/OverviewButton.qml": [
+    {
+      "property": "text",
+      "english": "Open Window Overview",
+      "chinese": "打开窗口概览"
+    }
+  ],
+  "modules/widgets/powermenu/PowerButton.qml": [
+    {
+      "property": "text",
+      "english": "Power Menu",
+      "chinese": "电源菜单"
+    }
+  ],
+  "modules/widgets/presets/PresetsButton.qml": [
+    {
+      "property": "text",
+      "english": "Open Presets Manager",
+      "chinese": "打开预设管理器"
+    }
+  ],
+  "modules/widgets/dashboard/controls/PanelTitlebar.qml": [
+    {
+      "property": "text",
+      "english": "Bypassed",
+      "chinese": "已绕过"
+    }
+  ],
+  "modules/tools/ScreenshotOverlay.qml": [
+    {
+      "property": "text",
+      "english": "Edit with Gradia",
+      "chinese": "用 Gradia 编辑"
     }
   ]
 }
